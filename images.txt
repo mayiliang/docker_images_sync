@@ -1,1 +1,1 @@
-ngnix:latest
+ngnix
