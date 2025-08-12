@@ -1,1 +1,1 @@
-ngnix
+ngnix:stable
